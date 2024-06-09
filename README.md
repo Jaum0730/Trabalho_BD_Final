@@ -5,7 +5,7 @@ Uma injeção de SQL (SQLi) é uma técnica que os invasores usam para obter ace
 Geralmente ataques de injeção de SQL podem ser usados ​​para atingir qualquer aplicativo que use um banco de dados SQL, sendo os sites as presas mais comuns. 
 
 # Tipos de ataques de injeção de SQL existem?
-
+sql injection.png
 
 # In-band SQLi
 é geralmente obtido por meio de dois métodos:
